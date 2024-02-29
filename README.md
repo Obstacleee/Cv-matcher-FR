@@ -1,5 +1,3 @@
-# Cv-matcher-FR
-
 # CV Matcheur
 
 Bienvenue sur le dépôt GitHub de **CV Matcheur**, une solution innovante qui utilise l'intelligence artificielle pour mettre en relation des cv avec des offres d'emploi correspondantes. Ce projet est conçu pour aider les recruteurs à trouver le candidat parfait tout en simplifiant la recherche d'emploi pour les candidats.
